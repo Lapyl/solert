@@ -59,7 +59,7 @@ This dApp can be used as follows.
 
 # Links
 
-- [Project as submitted to the Colosseum Solana Radar Hackathon 2024] (https://arena.colosseum.org/projects/hackathon/solert")
+- [Project as submitted to the Colosseum Solana Radar Hackathon 2024] (https://arena.colosseum.org/projects/hackathon/solert)
 - [Demonstration of the dApp at taxai.us] (https://taxai.us)
 - [GitHub repository of the project] (https://github.com/Lapyl/solert)
 - [Loom video of the project] (https://loom.com/share/1f540cbdf1d541bf84c2e311f6f7a0ff)
