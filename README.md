@@ -16,7 +16,7 @@ This is a Solana based Web3 dApp, developed by Lalit A Patel, for the Colosseum 
 
 # To Do for User
 
-- In Google Chrome, go to taxai.us. This Solert webpage shows journal in the top and map in the bottom.
+- In Google Chrome, go to taxai.us. (Please message me if this server is down when you visit.) This Solert webpage shows journal in the top and map in the bottom.
 - From Google Chrome Extensions, open Solflare or Phantom Wallet Extension. The wallet should be set for your own account. Point it to Solana Devnet network. If the wallet has no SOL amount, add some SOL by Airdrop. On the webpage, click Select Wallet. Select Solflare Wallet. Connect the Wallet.
 - If asked by the webpage, create a new Alerts journal. Approve it in the wallet. Webpage will now show the created journal. The alert dialog box on the webpage requires latitude, longitude, and description of the incident you want to report. (Later versions of this tool will require address instead of latitude and longitude.)
 - Write 44 -100 Water leaking a lot. Click Publish on the box, and Approve on the wallet. The journal will add this entry, and the map will now add a marker at 44 -100.
@@ -31,9 +31,11 @@ This is a Solana based Web3 dApp, developed by Lalit A Patel, for the Colosseum 
 - [Demonstration of the dApp](http://taxai.us)
 - [Overview of the project](https://clinos.us)
 - [GitHub repository of the code](https://github.com/Lapyl/solert)
-- [Loom video of the project](https://www.loom.com/share/bf0d1eec545844059d7855a435203fcc?sid=e93c772d-b9a2-4469-b558-93753b37dab4)
-- [YouTube video of the project](https://youtu.be/bK-g56PBBjo)
-- [Twitter post for the project](https://x.com/LaPatel1/status/1843524740415402151)
+- [Loom video of the project](https://www.loom.com/share/524178486b5440a4853de6dd17888eab)
+- [Loom video of the project (including SID)](https://www.loom.com/share/524178486b5440a4853de6dd17888eab?sid=8086bf30-d673-4b79-b24a-9b69c2d08b2d)
+- [YouTube video of the project](https://youtu.be/yRrP0IIWhII)
+- [Twitter post for the project](https://x.com/LaPatel1/status/1843836457942954446)
 - [YouTube video of Joseph Caulfield](https://youtube.com/watch?v=0RW4V7-a5FU)
 - [GitHub repository of Joseph Caulfield](https://github.com/Solana-Workshops/solana-journal)
 - [NASA Hubble video inserted in the dApp's video](https://svs.gsfc.nasa.gov/vis/a010000/a014600/a014674/14674_NOVA_WIDE_MP4.mp4)
+- [Lalit A Patel](https://lipy.us/lalit/index.html)
